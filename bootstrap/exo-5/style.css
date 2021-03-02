@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    height: 50px;
+    width: 35%;
+    background: rgb(252, 252, 13);
+    margin: 5px;
+    display: inline-block;
+    position: relative;
+    top: 0%;
+    left: 16%;
+}
+
+
+.container-1 {
+    height: 50px;
+    width: 255px;
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    top: 0%;
+    left: 16%;
+    background: rgb(8, 22, 211);
+}
+
+
+
+.container-2 {
+    height: 50px;
+    width: 720px;
+    background: crimson;
+    margin: 5px;
+}
+.container-3 {
+    height: 50px;
+    width: 330px;
+    background: crimson;
+    margin: 5px;
+}
+
+.container-2, .container-3 {
+    display: inline-block;
+    position: relative;
+    top: 0%;
+    left: 16%;
+
+}
+
+.container5 {
+    background;
+}
