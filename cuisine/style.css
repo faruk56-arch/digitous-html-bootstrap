@@ -1,0 +1,266 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: url("kitchen.jpg") no-repeat;
+    height: 500px;
+    background-size: cover;
+    background-position: 0 ;
+}
+
+.main-5 {
+    height: 70px;
+    background: #41404083;
+    border: 1px solid ;
+}
+ h1 {
+    color: #fff;
+    font-size: 19px;
+    float: left;
+    padding: 5px;
+}
+nav ul {
+    padding: 5px;
+    list-style: none;
+}
+ nav li {
+     font-size: 20px;
+     float: right;
+     color: #fff;
+     margin: 10px;
+     opacity: 0.8;
+     font-family:cursive;
+
+ }
+header h2 {
+    position: absolute;
+    top: 30%;
+    border: none;
+    color: #fff;
+    background: #16161611;
+    font-size: 40px;
+    width: 100%;
+    text-align: center;  
+    font-family:  cursive;
+} 
+
+#head {
+    display: flex;
+    justify-content: space-evenly;
+
+
+    
+    
+}
+.main-2 h3 {
+    font-size: 19px;
+    width: 95%;
+    margin: 20px;
+    padding: 40px;
+    font-family: cursive;
+    opacity: 0.8;
+    font-style: oblique;
+}
+.main-2 span {
+    text-transform: uppercase;
+    font-size: 60px;
+    padding: 5px;
+    color: grey;
+}
+
+.main-A {
+    margin: 10px;
+    padding-right: 40px;
+    
+}
+.main-A h4 {
+    font-size: 17px;
+    font-weight: bold;
+    font-style:italic;
+}
+.main-A input {
+    padding: 7px;
+    border-radius: 5px;
+    outline: none;
+    opacity: 0.8;
+    
+    
+}
+.main-A button {
+    width: 200px;
+    padding: 7px;
+    border-radius: 5px;
+    background: #fff;
+} 
+
+
+
+
+.mainC h6 {
+    font-size: 30px;
+    color: rgb(32, 30, 30);
+    margin-left: 50px;
+    font-family:sans-serif;
+    font-style: oblique;
+    
+}
+.para {
+    display: flex;
+}
+
+
+.para h5 {
+    margin-left: 40px;
+    padding: 10px;
+    width: 80%;
+    font-family: cursive;
+    opacity: 0.8;
+    font-style: oblique;
+}
+
+.main-B {
+    position: absolute;
+    left: 83%;
+    top: 80%;
+}
+
+.main-B h4 {
+    font-size: 19px;
+    font-weight: bold;
+    font-style:italic;
+
+}
+.main-B input {
+    padding: 7px;
+    border-radius: 5px;
+    outline: none;
+    opacity: 0.8;
+    outline: none;
+    
+
+}
+
+.main-B button {
+    width: 200px;
+    padding: 7px;
+    border-radius: 5px;
+    background: #fff;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+#head-3 {
+    display: flex;
+    
+}
+
+.main-para h3 {
+    font-size: 19px;
+    padding: 10px;
+    width: 1200px;
+    margin: 0 0 0 40px;
+    font-family: cursive;
+    opacity: 0.8;
+    font-style: oblique;
+}
+
+.icon p {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: oblique;
+    margin-top: 5px;
+}
+
+.social-media {
+    margin-right: 0px;
+}
+.social-media ul {
+    list-style-type: none;
+    display: inline-flex;
+    
+}
+.social-media li  {
+    margin-top: 5px;
+    padding: 5px;
+
+}
+
+.head-6 p {
+    margin-left: 40px;
+    padding: 10px;
+    width: 80%;
+    font-family: cursive;
+    opacity: 0.8;
+    font-style: oblique;
+    font-size: 20px;
+
+}
+
+.head-7 p {
+    margin-left: 40px;
+    padding: 10px;
+    width: 80%;
+    font-family: cursive;
+    opacity: 0.8;
+    font-style: oblique;
+    font-size: 20px;
+
+}
+
+.head-8 h2 {
+    font-size: 28px;
+    font-style: oblique;
+    margin-left: 45px;
+}
+
+.head-8 p {
+    margin-left: 40px;
+    padding: 10px;
+    width: 80%;
+    font-family: cursive;
+    opacity: 0.8;
+    font-style: oblique;
+    font-size: 20px;
+
+}
+
+#container {
+   
+    height: 200px;
+    width: 600px;
+    display: flex;
+    padding-top: 40px;
+    margin: 20px auto;
+}
+
+
+#container img {
+    height: 150px;
+    width: 130px;
+    border-radius: 50%;
+}
+
+.item-4 h8 {
+    font-size: 20px;
+    padding: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.item-4 p {
+    padding: 15px;
+    font-size: 17px;
+    font-style: oblique;
+    font-family: cursive;
+
+}
+
+
+
+
+
+
