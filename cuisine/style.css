@@ -260,7 +260,59 @@ header h2 {
 }
 
 
+form {
+    height: 350px;
+    width: 500px;
+    margin: 20px auto;
+}
+.form-1 {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.form-control-1 {
+    width: 500px;
+    padding: 6px;
+    border-radius: 5px;
+    outline: none;
+    opacity: 0.5;
+}
+
+.form-floating {
+    padding: 10px;
+}
+
+.form-floating-2 {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+    margin: 10px;
+}
+
+.form-group input {
+    padding: 7px;
+    border-radius: 5px;
+    font-size: 19px;
+    
+    opacity: 0.7;
+}
+
+.mb-3 label {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
 
 
+}
 
 
+    ::placeholder {
+        color: rgb(23, 23, 24);
+        font-size: 15px;
+        
+      }
+    
